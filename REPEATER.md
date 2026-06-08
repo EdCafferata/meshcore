@@ -64,4 +64,5 @@ Zorg dat de repeater op dezelfde frequentie staat als het netwerk:
 
 - Web flasher: https://flasher.meshcore.co.uk
 - Complete kit: https://www.etsy.com/listing/4310813646/meshcore-or-meshtatstic-solar-outdoor
-- Paradar antenne: https://pileupdx.com/product/paradar-868mhz-outdoor-antenna-8-5-dbi/
+- Taoglas Barracuda 868MHz 8dBi antenne: https://www.taoglas.com/product/barracuda-omb-868-08f21-868mhz-8dbi-omni-directional-outdoor-antenna/
+- ODL Store 8dBi alternatief: https://odlstore.com/lora-iot-modules-and-kits/602-lora-antenna-433mhz-470mhz-868mhz-915mhz-8dbi-fiber-glass-antenna-with-n-female-connector.html

@@ -57,6 +57,7 @@ Zorg dat de repeater op dezelfde frequentie staat als het netwerk:
 |------------|--------|
 | Regio | EU/UK (NARROW) |
 | Frequentie | 869.618 MHz |
+| Band | 62.5 kHz |
 
 ---
 

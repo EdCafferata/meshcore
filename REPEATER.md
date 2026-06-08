@@ -59,6 +59,7 @@ Zorg dat de repeater op dezelfde frequentie staat als het netwerk:
 | Frequentie | 869.618 MHz |
 | Band | 62.5 kHz |
 | Spreading Factor | SF8 |
+| Codering | 4/8 |
 
 ---
 

@@ -60,6 +60,7 @@ Zorg dat de repeater op dezelfde frequentie staat als het netwerk:
 | Band | 62.5 kHz |
 | Spreading Factor | SF8 |
 | Codering | 4/8 |
+| Vermogen | 28 dBm |
 
 ---
 

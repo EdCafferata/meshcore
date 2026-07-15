@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Gevoelige bestanden (nooit committen)
+.env
+.env.*
+*.pem
+
+# Build-output (PlatformIO/Arduino, indien later toegevoegd)
+.pio/
+.vscode/
+build/
+*.bin
+*.elf

@@ -1,6 +1,6 @@
 # MeshCore Setup — Heltec ESP32 LoRa V4
 
-🔒 Laatste security check: 2026-11-12 23:16 CET
+🔒 Laatste security check: 2026-11-14 10:32 CET
 
 Documentatie voor het opzetten van een MeshCore mesh netwerk node op een Heltec ESP32 LoRa V4.
 
